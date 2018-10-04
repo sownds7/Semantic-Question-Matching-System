@@ -2,4 +2,4 @@
 
 MTech KE Intern Final Semester Project
 
-Semantic Question Matching system enables the model to identify the similar questions. 
+Semantic Question Answer system enables the model to identify the questions that have same answers. 
